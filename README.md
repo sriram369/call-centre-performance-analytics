@@ -44,7 +44,3 @@ These definitions document how to interpret the analysis; check the existing rep
 ## Interpretation
 
 The dataset supports exploratory comparisons, not proof that staffing or answer speed causes a change in satisfaction. No operational improvements or business impact are claimed without measurement.
-
-## Source
-
-Based on [Nidhi Meher's Call Centre Trends project](https://github.com/NidhiMeher/Call-Centre-Trends), associated with the PwC Switzerland / Forage exercise. The source workbook and Power BI report are preserved; this copy revises the documentation. No new license is asserted for the imported files.
